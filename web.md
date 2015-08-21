@@ -1,11 +1,25 @@
 # wr 王润前端作品
-![img](http://www.jobdeer.com/img/rd.png)
 
 ## 专题效果图
+### 历史文化名城
+![历史文化名城](https://github.com/liyunfang/wr/blob/master/设计图/历史文化名城.png "历史文化名城")  
 
+### 照金香山大景区
+![照金香山大景区](https://github.com/liyunfang/wr/blob/master/设计图/照金香山大景区.png "照金香山大景区")  
 
+### 现代农业科技示范园
+![现代农业科技示范园](https://github.com/liyunfang/wr/blob/master/设计图/现代农业科技示范园.png "现代农业科技示范园")  
 
-## 政府网站效果图
+### 药王山大景区
+![药王山大景区](https://github.com/liyunfang/wr/blob/master/设计图/药王山大景区.png "药王山大景区")  
+
+### 董家河循环经济产业园
+![董家河循环经济产业园](https://github.com/liyunfang/wr/blob/master/设计图/董家河循环经济产业园.png "董家河循环经济产业园")  
+
+### 锦阳新城
+![锦阳新城](https://github.com/liyunfang/wr/blob/master/设计图/锦阳新城.png "锦阳新城")  
+
+## 部分政府网站效果图
 
 ### 铜川市住房和城乡建设管理局
 ![铜川市住房和城乡建设管理局](https://github.com/liyunfang/wr/blob/master/设计图/铜川市住房和城乡建设管理局3.png "铜川市住房和城乡建设管理局")  
